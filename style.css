@@ -203,8 +203,8 @@ html{
     width:  max(45px, 5vw);
     height:  max(45px, 5vw);
     background-color: white;
-    -webkit-mask: url("/src/icons/call.svg") no-repeat center;
-    mask: url("/src/icons/call.svg") no-repeat center;
+    -webkit-mask: url("src/icons/call.svg") no-repeat center;
+    mask: url("src/icons/call.svg") no-repeat center;
 }
 
 .larger-font{
